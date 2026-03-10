@@ -8,6 +8,6 @@ This repository contains a Tensorflow implementation of AlexNet optimized for th
 - Deep learning best practices for image classification.
 
 ## Getting Started
-1. Open the notebook `alexnet-cifar10-optimized.ipynb`.
+1. Open the notebook `240166_assignment1_notebook.ipynb`.
 2. Install dependencies: `pip install tensorflow numpy pandas matplotlib`.
 3. Run the cells to train and evaluate the model.
